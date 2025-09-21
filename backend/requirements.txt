@@ -12,3 +12,5 @@ requests
 tavily-python
 deep_translator
 langdetect
+fastapi
+uvicorn
