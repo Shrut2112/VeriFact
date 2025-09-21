@@ -16,3 +16,4 @@ fastapi
 uvicorn
 newspaper3k
 lxml[html_clean]
+moviepy
