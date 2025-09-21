@@ -17,3 +17,4 @@ uvicorn
 newspaper3k
 lxml[html_clean]
 moviepy
+python-multipart
